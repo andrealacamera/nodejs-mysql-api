@@ -32,4 +32,4 @@ comments: id, content, postId, userId
 - [bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 
 
-#### Updated: 2020-12-22
+#### Updated: 2020-12-28
