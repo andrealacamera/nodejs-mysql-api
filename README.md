@@ -32,6 +32,6 @@ comments: id, content, postId, userId
 - [bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 
 ### Notes: 
-- You must add /config/config.json (or similar) in order to configure the DB [see here](https://sequelize.org/master/manual/migrations.html#configuration) and [here](https://stackoverflow.com/questions/38757728/using-an-enviroment-variable-for-local-sequelize-configuration). 
+- You must add /config/config.json in order to configure the DB [see here](https://sequelize.org/master/manual/migrations.html#configuration) and [here](https://stackoverflow.com/questions/38757728/using-an-enviroment-variable-for-local-sequelize-configuration). 
 
 #### Updated: 2020-12-28
